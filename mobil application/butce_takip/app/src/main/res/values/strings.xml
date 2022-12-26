@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">butce_takip</string>
+    <string name="kullanici_adi">Kullanıcı Adı</string>
+    <string name="sifre">Şifre</string>
+    <string name="giris_yap">GİRİŞ YAP</string>
+    <string name="kaydol">KAYIT OL</string>
+    <string name="montrack">MONTRACK</string>
+</resources>
