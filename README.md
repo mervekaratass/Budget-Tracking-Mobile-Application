@@ -5,7 +5,7 @@
 <img src="https://github.com/mervekaratass/Mobil-application-MonTrack/blob/main/mobil%20application/images/login-screen.png" width=350>
 
 #### Home Page Screens
-<img src="https://github.com/mervekaratass/Mobil-application-MonTrack/blob/main/mobil%20application/images/home-page-screen.png" width=200>
+<img src="https://github.com/mervekaratass/Mobil-application-MonTrack/blob/main/mobil%20application/images/home-page-screen.png" width=180>
 
 ###  Income Addition And Deletion Screen
 <img src="https://github.com/mervekaratass/Mobil-application-MonTrack/blob/main/mobil%20application/images/income-addition-and-deletion-screen.png" width=350>
